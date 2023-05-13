@@ -1,0 +1,21 @@
+[submodule "IF2211_TugasKecil_1_24GameSolver"]
+	path = IF2211_TugasKecil_1_24GameSolver
+	url = https://github.com/NicholasLiem/IF2211_TugasKecil_1_24GameSolver
+[submodule "IF2211_TugasBesar_1_AlgonautsBot"]
+	path = IF2211_TugasBesar_1_AlgonautsBot
+	url = https://github.com/NicholasLiem/IF2211_TugasBesar_1_AlgonautsBot
+[submodule "IF2211_TugasKecil_2_ClosestPairNDimension"]
+	path = IF2211_TugasKecil_2_ClosestPairNDimension
+	url = https://github.com/NicholasLiem/IF2211_TugasKecil_2_ClosestPairNDimension
+[submodule "IF2211_TugasBesar_2_MazeRunner"]
+	path = IF2211_TugasBesar_2_MazeRunner
+	url = https://github.com/NicholasLiem/IF2211_TugasBesar_2_MazeRunner
+[submodule "Tucil3_13521083_13521135"]
+	path = Tucil3_13521083_13521135
+	url = https://github.com/NicholasLiem/Tucil3_13521083_13521135
+[submodule "Tubes3_13521116_FE"]
+	path = Tubes3_13521116_FE
+	url = https://github.com/NicholasLiem/Tubes3_13521116_FE
+[submodule "Tubes3_13521116_BE"]
+	path = Tubes3_13521116_BE
+	url = https://github.com/NicholasLiem/Tubes3_13521116_BE
